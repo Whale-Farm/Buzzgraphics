@@ -1,0 +1,75 @@
+
+.screen-reader-response ul{
+	display: none!important;
+}
+
+.screen-reader-response p{
+	font-size: 18px;
+	color: red;
+}
+
+.wpcf7-not-valid-tip{
+	font-size: 16px;
+	display: block;
+	margin-top: 10px;
+	color: red;
+}
+
+.wpcf7-response-output{
+	font-size: 18px;
+	    margin: 30px 10px;
+	    color: red;
+	    text-align: center;
+	    font-weight: 600;
+}
+
+
+/* ==== For home page contact form validation */
+
+
+.contact-sect .screen-reader-response p{
+	font-size: 16px;
+	    color: red;
+	    max-width: 100%;
+	    margin: 0;
+	    padding: 0px;
+	    line-height: 30px;
+	    margin-bottom: 20px;
+}
+.contact-sect .wpcf7-not-valid-tip{
+	display: block;
+	width: 100%;
+}
+.contact-sect .wpcf7-response-output{
+	display: none!important;
+}
+
+
+
+
+.single-service-page-main .service-head-title {
+	text-transform: capitalize;
+}
+
+nav.navbar .nav-item a.nav-link.active, .dropdown-menu a.active{
+	color: var(--primary-clr)!important;
+}
+
+#html5lightbox-watermark{
+	display: none!important;
+}
+.header .inner-submenu a{
+	font-size: 16px;
+}
+
+.offering-left .home-service-inner a{
+	cursor: default;
+}
+.offering-left .home-service-inner a:hover{
+	color: var(--third-clr);
+}
+
+.offering-left .services-all-btn{
+	cursor: pointer!important;
+}
+

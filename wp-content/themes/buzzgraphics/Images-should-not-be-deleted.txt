@@ -1,0 +1,9 @@
+
+
+
+- Logo both foooter and header
+- home page banner image
+
+
+====== Image needs to be deleted:
+-bg-round-img
